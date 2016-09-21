@@ -1,0 +1,4 @@
+CurrentSensor	KEYWORD1
+getVolts	KEYWORD2
+getAmps	KEYWORD2
+calibrate	KEYWORD2
